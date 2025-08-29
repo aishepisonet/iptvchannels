@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kapamilya Online Live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw&autoplay=1"
+  },
+  {
+    "name": "Kapamilya Online Live 1",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8=s160-c-k-c0x00ffffff-no-rj",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/Q-iAqWRVns4?autoplay=1"
+  },
+  {
+    "name": "Kapuso Stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kapuso_Stream_logo.png",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1"
+  },
+  {
+    "name": "Eat Bulaga TVJ",
+    "logo": "https://yt3.googleusercontent.com/LEJiad-8tC5St_L8zMg-jWvZYUD9dYJ2g539wqlRCxpepPi9JgQWRbattOy3aSUh_3PPWcSc=s160-c-k-c0x00ffffff-no-rj",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/live_stream?channel=UCby04dl3oIxkDoZil8xP_FA&autoplay=1"
+  },
+  {
+    "name": "TV 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/4z8P1kBTaoA?autoplay=1"
+  },
+  {
+    "name": "HBO 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png",
+    "type": "m3u8",
+    "link": "https://fl5.moveonjoy.com/HBO_2/index.m3u8"
+  },
+  {
+    "name": "Movie Sphere",
+    "logo": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MOVSPH/large_dark.png?auto=webp&ver=1",
+    "type": "m3u8",
+    "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "AMC Thrillers",
+    "logo": "https://i.imgur.com/EVD0aIt.png",
+    "type": "m3u8",
+    "link": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "NEW KPOP",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mvIHQlYealbOtnxSkoFhR5NOnjFiqr7vPRJHsn-dH0P-c=s160-c-k-c0x00ffffff-no-rj",
+    "type": "m3u8",
+    "link": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "YG TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s160-c-k-c0x00ffffff-no-rj",
+    "type": "m3u8",
+    "link": "https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "K-MOVIES",
+    "logo": "https://media.licdn.com/dms/image/D560BAQFjqVBarD-JvA/company-logo_200_200/0/1680758557654?e=2147483647&v=beta&t=jZcFPhVwDPwdz9xM8ZNN-1-ZyUE8AP2jO9cHxvKYAeY",
+    "type": "m3u8",
+    "link": "https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8"
+  }
+]
