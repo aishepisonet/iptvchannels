@@ -9,7 +9,7 @@
     "name": "Kapamilya Online Live 1",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8=s160-c-k-c0x00ffffff-no-rj",
     "type": "youtube",
-    "link": "https://www.youtube.com/embed/tvqLC7G85c8&pp=ygUVa2FwYW1pbHlhIG9ubGluZSBsaXZl?autoplay=1"
+    "link": "https://www.youtube.com/embed/aX0i7SuBmkAl?autoplay=1"
   },
   {
     "name": "Kapuso Stream",
@@ -27,7 +27,7 @@
     "name": "TV 5",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg",
     "type": "m3u8",
-    "link": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8"
+    "link": "https://www.youtube.com/embed/slrbuT_wsNw?autoplay=1"
   },
   {
     "name": "Movie Sphere",
@@ -73,6 +73,7 @@
   }
 ]
  
+
 
 
 
