@@ -9,7 +9,7 @@
     "name": "Kapamilya Online Live 1",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8=s160-c-k-c0x00ffffff-no-rj",
     "type": "youtube",
-    "link": "https://www.youtube.com/embed/TxJXkGyE7gE?autoplay=1&mute=0"
+    "link": "https://www.youtube.com/embed/MVndnr9w81s?autoplay=1&mute=0"
   },
   {
     "name": "Kapuso Stream",
@@ -26,8 +26,14 @@
   {
     "name": "TV 5",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg",
-    "type": "m3u8",
-    "link": "https://www.youtube.com/embed/slrbuT_wsNw?autoplay=1"
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/-nd0aNe2OZE?autoplay=1&mute=0"
+  },
+  {
+    "name": "DZRH",
+    "logo": "https://yt3.googleusercontent.com/ru7PnoJsLdba3X0yMrOh3BBFb3yU7D1deI-1IO5SoKd5WY23sYHvhyV0MhJzxBSeXIs7E-4pYw=s160-c-k-c0x00ffffff-no-rj",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1"
   },
   {
     "name": "Movie Sphere",
@@ -35,11 +41,23 @@
     "type": "m3u8",
     "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
   },
+   {
+    "name": "AMC",
+    "logo": "https://i.ibb.co/TMPwnJJ/amc.png",
+    "type": "m3u8",
+    "link": "https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8"
+  },
   {
     "name": "AMC Thrillers",
     "logo": "https://i.imgur.com/EVD0aIt.png",
     "type": "m3u8",
     "link": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "HBO 2",
+    "logo": "https://i.ibb.co/Jvryc3F/hbo2.png",
+    "type": "m3u8",
+    "link": "https://fl5.moveonjoy.com/HBO_2/index.m3u8"
   },
   {
     "name": "NEW KPOP",
@@ -73,6 +91,7 @@
   }
 ]
  
+
 
 
 
