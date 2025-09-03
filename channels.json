@@ -78,6 +78,12 @@
     "link": "https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8"
   },
   {
+    "name": "Hi-Yah!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/36/3d/87363dab-5e28-c102-bfc7-a576c8519da6/AppIcon-Branded-1x_U007emarketing-0-6-0-85-220-0.png/217x0w.webp",
+    "type": "m3u8",
+    "link": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8"
+  },
+  {
     "name": "BBCWorldNews",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",
     "type": "m3u8",
@@ -97,6 +103,7 @@
   }
 ]
  
+
 
 
 
