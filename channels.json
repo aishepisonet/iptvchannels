@@ -1,11 +1,5 @@
 [
   {
-    "name": "Bagyo Live UPDATE",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Philippine_Atmospheric%2C_Geophysical_and_Astronomical_Services_Administration_%28PAGASA%29_logo.svg",
-    "type": "youtube",
-    "link": "https://embed.windy.com/embed2.html?lat=12.6&lon=125.8&detailLat=12.6&detailLon=125.8&width=650&height=450&zoom=5&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
-  },
-  {
     "name": "Kapamilya Online Live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg",
     "type": "youtube",
@@ -109,6 +103,7 @@
   }
 ]
  
+
 
 
 
