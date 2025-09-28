@@ -5,6 +5,12 @@
     "type": "m3u8", 
     "link": "https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_360p.m3u8"
   },
+  { 
+    "name": "Jungo Pinoy TV", 
+    "logo": "https://jungopinoy.com/images/logo_11.jpg", 
+    "type": "m3u8", 
+    "link": "https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_360p.m3u8"
+  },
   {
     "name": "Kapamilya Online Live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg",
@@ -109,6 +115,7 @@
   }
 ]
  
+
 
 
 
