@@ -51,14 +51,13 @@
     "isLive": true
   },
   {
-    "name": "Bilyonaryo News Channel",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg",
+    "name": "'Bilyonaryo Channel", 
+    "logo": "https://static.wikia.nocookie.net/tv-philippines/images/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/revision/latest?cb=20241003053046",
     "type": "mpd",
-    "link": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd",
-    "drmtype": "clearkey",
-    "clearkey": {
-      "227ffaf09bec4a889e0e0988704d52a2": "b2d0dce5c486891997c1c92ddaca2cd2"
-    },
+    "link": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"227ffaf09bec4a889e0e0988704d52a2": "b2d0dce5c486891997c1c92ddaca2cd2"
+  },
     "isLive": true
   },
   {
@@ -84,6 +83,13 @@
     "isLive": true
   },
   {
+    "name": "PBB Celebrity 2.0",
+    "logo": "https://static.wikia.nocookie.net/gmanetwork/images/b/b4/PBB_Celebrity_Collab_Edition_2.0.png/revision/latest?cb=20251109150121",
+    "type": "mpd",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd",
+    "isLive": true
+  },
+  {
     "name": "Cinema One",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png",
     "type": "mpd",
@@ -95,6 +101,17 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cinemologo.png",
     "type": "mpd",
     "link": "https://live-faws.akamaized.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd",
+    "isLive": true
+  },
+  {
+    "name": "Viva Cinema",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png",
+    "type": "mpd",
+    "link": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd",
+    "drmtype": "clearkey",
+    "clearkey": {
+      "07aa813bf2c147748046edd930f7736e": "3bd6688b8b44e96201e753224adfc8fb"
+    },
     "isLive": true
   },
   {
@@ -166,16 +183,6 @@
     "isLive": true
   },
   {
-    "name": "Jeepney TV",
-    "logo": "https://i.pinimg.com/736x/76/36/ea/7636ea0637bdbc796f54c8b7087c6805.jpg",
-    "type": "mpd",
-    "link": "https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd",
-    "clearkey": {
-      "90ea4079e02f418db7b170e8763e65f0": "1bfe2d166e31d03eee86ee568bd6c272"
-    },
-    "isLive": true
-  },
-  {
     "name": "Kapamilya Online Live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg",
     "type": "youtube",
@@ -230,17 +237,6 @@
     "logo": "https://i.imgur.com/Nd9gqA2.png",
     "type": "m3u8",
     "link": "https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8",
-    "isLive": true
-  },
-  {
-    "name": "ONE Ph",
-    "logo": "https://i.imgur.com/gkluDe9.png",
-    "type": "mpd",
-    "link": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd",
-    "drmtype": "clearkey",
-    "clearkey": {
-      "92834ab4a7e1499b90886c5d49220e46": "a7108d9a6cfcc1b7939eb111daf09ab3"
-    },
     "isLive": true
   },
   {
@@ -376,14 +372,111 @@
     "isLive": true
   },
   {
-    "name": "Warner TV",
-    "logo": "https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1599468004_warner-tv.gif",
+    "name": "MOVIES NOW HD", 
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",
     "type": "mpd",
-    "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
-    "drmtype": "clearkey",
-    "clearkey": {
-      "4503cf86bca3494ab95a77ed913619a0": "afc9c8f627fb3fb255dee8e3b0fe1d71"
+    "link": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
     },
     "isLive": true
-  }
+  },
+  {
+    "name": "MNX HD", 
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",
+    "type": "mpd",
+    "link": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+     },
+      "isLive": true
+  },
+  {
+    "name": "MN+ HD", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",
+    "type": "mpd",
+    "link": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+  },
+    "isLive": true
+  },
+  {
+    "name": "Romedy Now", 
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",
+    "type": "mpd",
+    "link": "https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+  },
+    "isLive": true
+  },
+  {
+    "name": "MGM Plus", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg",
+    "type": "mpd",
+    "link": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"34bbe1d5cad94e81a2f2eb3275611f85": "7e6a42fbe78e7ff8c20cb4eeb475ed17"
+  },
+    "isLive": true
+  },
+  {
+    "name": "Wil TV", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/WILTV_logo.svg",
+    "type": "mpd",
+    "link": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a"
+  },
+    "isLive": true
+  },
+  {
+    "name": "DramaChannel", 
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drama_logo_2013.svg",
+    "type": "mpd",
+    "link": "https://slive.mana2.my/DramaChannel/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"3dd653fc7aa1e3075b7f0233620df68f": "8573791fa55bff03a3094ff559fc1407"
+  },
+    "isLive": true
+  },
+  {
+    "name": "AniPlus", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aniplus_logo.svg",
+    "type": "mpd",
+    "link": "https://slive.mana2.my/AniPlus/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"3dd653fc7aa1e3075b7f0233620df68f": "8573791fa55bff03a3094ff559fc1407"
+  },
+    "isLive": true
+  },
+  {
+    "name": "CNA", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg",
+    "type": "mpd",
+    "link": "https://slive.mana2.my/CNA/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"3dd653fc7aa1e3075b7f0233620df68f": "8573791fa55bff03a3094ff559fc1407"
+  },
+    "isLive": true
+  },
+  {
+    "name": "MeTV toons", 
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png",
+    "type": "mpd",
+    "link": "https://sr-live-weigel1.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_nr_rt/4c6a059bbc8441778f2a09259cded4a7/index.mpd",
+    "drmType": "clearkey",
+    "clearkey": {"3c9d72e8564ab03fd125487bc6f1e925": "14938e6c1cf34100a8494f041f2316a3"
+  },
+    "isLive": true
+    }
+  
 ]
+
+
+
+
+
+
+
